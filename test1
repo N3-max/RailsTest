@@ -1,2 +1,2 @@
 #railsの確認
-pint "Hello"
+print "Hello"
